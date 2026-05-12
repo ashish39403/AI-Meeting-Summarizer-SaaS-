@@ -15,7 +15,7 @@ MeetWise is a full-stack AI-powered meeting summarization platform built with Dj
 
 ---
 
-## 🧠 Core AI Features
+# 🧠 Core AI Features
 
 * AI-generated meeting summaries
 * Automatic extraction of:
@@ -42,9 +42,9 @@ MeetWise is a full-stack AI-powered meeting summarization platform built with Dj
 
 
 
-## ⚡ Installation
+# ⚡ Installation
 
-## 1. Clone Repository
+# 1. Clone Repository
 
 ```bash
 git clone https://github.com/your-username/ai-meeting-summarizer.git
@@ -53,7 +53,7 @@ cd ai-meeting-summarizer
 
 ---
 
-## 🐍 Backend Setup
+# 🐍 Backend Setup
 
 ## 1. Create Virtual Environment
 
@@ -204,23 +204,6 @@ Add screenshots of:
 * Dashboard
 * Meeting Summary
 * AI Generated Output
-
----
-
----
-
-
----
-
----
-
-## 👨‍💻 Author
-
-Ashish
-
----
-
----
 
 
 This project is licensed under the MIT License.
